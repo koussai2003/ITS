@@ -307,7 +307,7 @@ ul {
 }
 
 .bg-theme-three {
-  background: #002FA6;
+  background: #d01720;
 }
 
 .sub-heading {
@@ -2983,7 +2983,7 @@ input[type=checkbox] {
   line-height: 1.78;
 }
 .top-message a {
-  color: #002FA6;
+  color: #d01720;
   font-weight: 500;
 }
 .top-message a:hover {
@@ -5260,7 +5260,7 @@ ul.footer-widget__horizontal-list li {
   margin-right: 20px;
   -webkit-box-shadow: 0 0 15px rgba(51, 51, 51, 0.05);
           box-shadow: 0 0 15px rgba(51, 51, 51, 0.05);
-  color: #002FA6;
+  color: #d01720;
 }
 .fun-fact--four .fun-fact-text {
   text-align: left;
@@ -5815,7 +5815,7 @@ ul.footer-widget__horizontal-list li {
           transform: translateY(-5px);
 }
 .ht-box-images.style-03:hover .content .heading {
-  color: #002FA6;
+  color: #d01720;
 }
 .ht-box-images.style-04 {
   -webkit-box-shadow: 0 0 30px rgba(51, 51, 51, 0.05);
@@ -6396,7 +6396,7 @@ ul.footer-widget__horizontal-list li {
           transform: scale(1.1, 1.1);
 }
 .box-large-image__wrap:hover .images-midea::after {
-  background: #002fa6;
+  background: #d01720;
   opacity: 0.8;
 }
 .box-large-image__wrap:hover .heading-wrap .heading {
@@ -6459,10 +6459,10 @@ ul.footer-widget__horizontal-list li {
   right: 0;
   bottom: 0;
   opacity: 0.5;
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(39%, transparent), to(#1c0f69));
-  background-image: -webkit-linear-gradient(top, transparent 39%, #1c0f69 100%);
-  background-image: -o-linear-gradient(top, transparent 39%, #1c0f69 100%);
-  background-image: linear-gradient(-180deg, transparent 39%, #1c0f69 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(39%, transparent), to(#d01720));
+  background-image: -webkit-linear-gradient(top, transparent 39%, #d01720 100%);
+  background-image: -o-linear-gradient(top, transparent 39%, #d01720 100%);
+  background-image: linear-gradient(-180deg, transparent 39%, #d01720 100%);
 }
 .box-large-image__midea .images-midea .heading-wrap {
   position: absolute;
@@ -6522,7 +6522,7 @@ ul.footer-widget__horizontal-list li {
   transform: translateY(-5px);
 }
 .box-large-image__two:hover .box-large-image__midea::after {
-  background: #002fa6;
+  background: #d01720;
   opacity: 0.8;
 }
 .box-large-image__two:hover .box-info {
@@ -8128,7 +8128,7 @@ ol {
           box-shadow: 0 2px 30px rgba(89, 69, 230, 0.12);
   border: 0 solid transparent;
   padding: 35px 21px 41px;
-  background: #002FA6;
+  background: #d01720;
 }
 .pricing-table-two .pricing-table--popular .pricing-table__title {
   color: #ffffff;
@@ -9025,7 +9025,7 @@ ol {
   visibility: hidden;
   text-align: center;
   padding: 6px 0;
-  background-color: #002FA6;
+  background-color: #d01720;
   -webkit-transition: all 0.7s cubic-bezier(0.645, 0.045, 0.355, 1);
   -o-transition: all 0.7s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition: all 0.7s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -9881,7 +9881,7 @@ ol {
   margin-bottom: 15px;
 }
 .testimonial-slider__single .testimonial-slider__text {
-  color: #002FA6;
+  color: #d01720;
 }
 .testimonial-slider__single .author-info {
   display: -webkit-box;
@@ -10342,14 +10342,14 @@ ol {
 }
 
 .service-contact-bg {
-  background-color: #002fa6;
+  background-color: #d01720;
   background-image: url(../images/bg/mitech-home-services-contact-bg.webp);
   background-repeat: no-repeat;
   background-position: left bottom;
 }
 
 .processing-contact-us-bg {
-  background-color: #002fa6;
+  background-color: #d01720;
   background-image: url(../images/bg/mitech-processing-contact-bg.webp);
   background-repeat: no-repeat;
   background-position: top right;
@@ -10491,7 +10491,7 @@ ol {
 }
 .contact-info-one .call-us, .contact-info-two .call-us, .contact-info-three .call-us {
   line-height: 1.17;
-  color: #002fa6;
+  color: #d01720;
   position: relative;
   display: inline-block;
 }
@@ -10510,7 +10510,7 @@ ol {
   background: currentColor;
 }
 .contact-info-one .call-us:hover, .contact-info-two .call-us:hover, .contact-info-three .call-us:hover {
-  color: #002fa6;
+  color: #d01720;
 }
 .contact-info-one .call-us:hover::before, .contact-info-two .call-us:hover::before, .contact-info-three .call-us:hover::before {
   width: 100%;
@@ -10518,7 +10518,7 @@ ol {
   right: auto;
 }
 .contact-info-one .call-us a:hover, .contact-info-two .call-us a:hover, .contact-info-three .call-us a:hover {
-  color: #002fa6;
+  color: #d01720;
 }
 .contact-info-one .btn--secondary, .contact-info-two .btn--secondary, .contact-info-three .btn--secondary {
   min-width: 230px;
@@ -10625,7 +10625,7 @@ ol {
 .computing-info-box h2 {
   font-size: 64px;
   line-height: 1.13;
-  color: #002fa6;
+  color: #d01720;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .computing-info-box h2 {
@@ -12993,7 +12993,7 @@ blockquote {
   font-size: 28px;
   line-height: 1.43;
   font-weight: 400;
-  color: #002fa6;
+  color: #d01720;
 }
 
 .portfolio-details-table table {
@@ -14130,7 +14130,7 @@ blockquote {
   font-size: 36px;
   font-weight: 500;
   line-height: 1.22;
-  color: #002fa6;
+  color: #d01720;
   margin-top: 20px;
   margin-bottom: 24px;
 }
@@ -14270,7 +14270,7 @@ blockquote {
 }
 
 .technology-service-bg {
-  background-color: #002fa6;
+  background-color: #d01720;
   background-image: url("../images/bg/soft-s5-bg.webp");
   background-repeat: no-repeat;
   background-position: left center;
