@@ -1126,9 +1126,7 @@
         var heightFooter = revealId.outerHeight(),
             windowWidth = $window.width();
         if (windowWidth > 991) {
-            $mainWrapper.css({
-                'padding-bottom': heightFooter + 'px'
-            });
+            
         } else if(windowWidth <= 991) {
             $mainWrapper.css({
                 'padding-bottom': '0px'
